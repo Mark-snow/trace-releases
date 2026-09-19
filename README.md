@@ -32,3 +32,11 @@ There's no auto-update or Play Store listing — new versions are published here
 ## Privacy
 
 Trace works entirely offline. It doesn't require an account, doesn't collect any data, and never sends anything over the network — everything you enter stays on your device for the life of that session.
+
+## Feedback
+
+Found a bug or have a suggestion? [Open an issue](https://github.com/Mark-snow/trace-releases/issues).
+
+---
+
+_Trace is coming to the Google Play Store soon._
